@@ -1,5 +1,5 @@
-# LSTM-multivariate-Employees-predictin
-Employees minotoring
+# LSTM-multivariate-Employees-predicting
+Employees monitoring
 
 L’entreprise souhaite disposer d’un outil d’aide à la décision permettant de qualifier le rendement de chaque collaborateur et de prédire son taux atteint pour le mois prochain. Il s’agit de choisir le meilleur modèle permettant de réaliser ce besoin.
 Pour être entrainer, le modèle LSTM demande au moins 10 employés avec leurs performances étalée sur 6 mois (5 mois successifs et le dernier mois le plus récent comme cible ).
